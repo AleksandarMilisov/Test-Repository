@@ -1,4 +1,4 @@
-print(Initial Commit)
+print("Initial Commit")
 
 def f1():
     print(lalalala)
